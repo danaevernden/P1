@@ -12,9 +12,9 @@ Not required for this project.
 This was my first time trying out version control with a live server!
 
 #Outside code
-None.
-
+[Subtle Patterns]
 
 [//]:
 
 [P1]: <http://p1.danaevernden.com>
+[Subtle Patterns]: <http://subtlepatterns.com/>
